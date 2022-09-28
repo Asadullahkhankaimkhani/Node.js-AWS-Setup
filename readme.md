@@ -35,7 +35,7 @@ pm2 serve build PORT --spa
 
  Node.js Server
 ```bash
-pm2 start index.js 
+pm2 start index.js / server.js
 ```
 
 
